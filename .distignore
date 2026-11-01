@@ -1,6 +1,7 @@
 /.git
 /.github
 /.wordpress-org
+/tests
 /TESTING.md
 /GITHUB_PUBLISH_GUIDE.md
 /.distignore
